@@ -2,7 +2,7 @@
 A repository which made me to be a winner
 
 
-**SUMMARY
+**SUMMARY**
 
 Today, I attended a workshop which was organised by Hamidou TESSILIMI. He showed us how to:
 - Create branches to manager work
