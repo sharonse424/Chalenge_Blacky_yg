@@ -22,3 +22,4 @@ Github Issues is a tracking tool that is integrated with a Github repository. Us
 Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
 
 **WHAT ARE BRANCHES IN GITHUB ?**
+Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. You always create a branch from an existing branch. Typically, you might create a new branch from the default branch of your repository.
